@@ -1,0 +1,14 @@
+.btn {
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+.btn-primary {
+	background-color: #305295;
+}
+
+.btn-primary:focus,
+.btn-primary:hover {
+	background-color: #103073;
+}
