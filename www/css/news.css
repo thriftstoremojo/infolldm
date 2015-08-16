@@ -1,4 +1,5 @@
 .news-article {
+	margin-bottom: 20px;
 	overflow: hidden;
 }
 
@@ -165,5 +166,40 @@
 
 	.news-source-footer {
 		padding-left: 350px;
+	}
+}
+
+@media (max-width: 640px) {
+	.news-article {
+		font-size: 16px;
+	}
+
+	.news-list-description {
+		font-size: 14px;
+	}
+
+	.news-list-header {
+		height: 150px;
+	}
+
+	.news-list-title {
+		font-size: 25px;
+		top: 40px;
+	}
+
+	.news-source-footer {
+		padding-left: 300px;
+	}
+
+	.news-source-icon {
+		padding-top: 4px;
+	}
+
+	.news-source-meta {
+		font-size: 12px;
+	}
+
+	.news-source-title {
+		font-size: 20px;
 	}
 }

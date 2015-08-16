@@ -4,6 +4,12 @@
 	-webkit-border-radius: 6px;
 }
 
+.btn-flat {
+	border-radius: 0;
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+}
+
 .btn-primary {
 	background-color: #305295;
 }

@@ -39,6 +39,26 @@
 	background-color: #80B2F1;
 }
 
+#menu li:nth-child(2) {
+	background-color: #6AA1F0;
+}
+
+#menu li:nth-child(3) {
+	background-color: #5993EE;
+}
+
+#menu li:nth-child(4) {
+	background-color: #5185DF;
+}
+
+#menu li:nth-child(5) {
+	background-color: #4675CC;
+}
+
+#menu li:nth-child(6) {
+	background-color: #3D65BA;
+}
+
 #menu .icon {
 	margin-right: 5px;
 	vertical-align: middle;
@@ -48,5 +68,11 @@
 	.navbar-text {
 		display: block;
 		text-align: center;
+	}
+}
+
+@media (max-width: 640px) {
+	.navbar-text {
+		font-size: 26px;
 	}
 }

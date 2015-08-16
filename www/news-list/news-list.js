@@ -67,7 +67,7 @@
 								'<div class="news-source-meta text-right">' +
 									'<div class="pull-left"><span class="icon icon-clock"></span>' + date + '</div>' +
 									'<span class="icon icon-view"></span> ' + viewCount +
-									' <span class="icon icon-comment"></span> ' + commentCount +
+									' <span class="icon icon-comments"></span> ' + commentCount +
 								'</div>' +
 							'</div>' +
 						'</li>';
